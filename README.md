@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Twitter Badge](https://img.shields.io/badge/-@m_gd__l-ef476f?style=for-the-badge&labelColor=272838&logo=twitter&logoColor=white&link=https://twitter.com/m_gd__l)](https://twitter.com/m_gd__l)
+[![Twitter Badge](https://img.shields.io/badge/-@m__gd____l-ef476f?style=for-the-badge&labelColor=272838&logo=twitter&logoColor=white&link=https://twitter.com/m_gd__l)](https://twitter.com/m_gd__l)
 [![Facebook Badge](https://img.shields.io/badge/-Ada%C3%ADas%20Magdiel-ef476f?style=for-the-badge&labelColor=272838&logo=facebook&logoColor=white&link=https://www.facebook.com/adaias.magdiel)](https://www.facebook.com/adaias.magdiel)
 
 
