@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter Badge](https://img.shields.io/badge/-@m_gd__l-ef476f?style=for-the-badge&labelColor=272838&logo=twitter&logoColor=white&link=https://twitter.com/m_gd__l)](https://twitter.com/m_gd__l)
-[![Facebook Badge](https://img.shields.io/badge/-Adaías Magdiel-ef476f?style=for-the-badge&labelColor=272838&logo=facebook&logoColor=white&link=https://fb.com/adaias.magdiel)](https://fb.com/adaias.magdiel)
+[![Facebook Badge](https://img.shields.io/badge/-Adaías%20%Magdiel-ef476f?style=for-the-badge&labelColor=272838&logo=facebook&logoColor=white&link=https://www.facebook.com/adaias.magdiel)](https://www.facebook.com/adaias.magdiel)
+
 
  #### Eu gosto de programar apenas por diversão, sem envolvimento sério com a área. 🌱
 
