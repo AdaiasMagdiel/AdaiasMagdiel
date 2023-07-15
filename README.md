@@ -1,4 +1,4 @@
-# Oi 👋, eu sou o Adaías.
+# Hi 👋, I'm Adaías.
 
 <!--
 **AdaiasMagdiel/AdaiasMagdiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,4 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@m__gd____l-ef476f?style=for-the-badge&labelColor=272838&logo=twitter&logoColor=white&link=https://twitter.com/m_gd__l)](https://twitter.com/m_gd__l)
 [![Facebook Badge](https://img.shields.io/badge/-Ada%C3%ADas%20Magdiel-ef476f?style=for-the-badge&labelColor=272838&logo=facebook&logoColor=white&link=https://www.facebook.com/adaias.magdiel)](https://www.facebook.com/adaias.magdiel)
 
-
- #### Eu gosto de programar apenas por diversão, sem envolvimento sério com a área. 🌱
-
-<p>Ora desenvolvo scripts que me ajudam em algumas tarefas (como no <i>photoshop</i> ou <i>after effects</i>), ora desenvolvo apenas como forma de entretenimento.</p>
-
-<p>Minhas linguagems favoritas são Python e Javascript, com ênfase para o Python que é a que mais utilizo.</p>
+Comming soon...
