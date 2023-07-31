@@ -15,7 +15,7 @@ I have experience in various programming languages, including:
 - PHP :elephant:
 - Javascript :zap: (including HTML :globe_with_meridians: and CSS :art:)
 - Some (a little) experience in C and Java :books:
-- I'm current learning rust :crab:
+- I'm current learning Rust :crab:
 
 ### :books::blue_book::green_book: Learning and Curiosity
 
