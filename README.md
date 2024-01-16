@@ -5,26 +5,37 @@
 
 ## About Me
 
-🎓 I'm a 21-year-old Brazilian student pursuing a degree in Mathematics Education and a Bachelor's degree in Computer Science. Passionate about programming since the age of 14, I enjoy coding as a hobby. While not currently working in the field, I'm open to new opportunities.
+# Hello, there! 👋
 
-### :computer: Tech Stack
+### About Me
 
-🐍 Python | 🐘 PHP | ⚡ Javascript | 📚 Some experience in C and Java | 🦀 Currently learning Rust
+I'm Adaías Magdiel, currently pursuing a degree in Mathematics (Licentiate) and a Bachelor's degree in Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.
 
-### :books::blue_book::green_book: Learning and Curiosity
+### 💻 Technologies & Languages
 
-I'm naturally curious, always eager to understand how the world works. This curiosity propels me deeper into the world of programming. In my free time, I love studying and experimenting with different technologies.
+- Python 🐍
+- JavaScript 🌐
+- PHP 🚀
+- C 🔧
+- Java ☕
+- Exploring Rust 🦀
 
-### :hammer_and_wrench: Projects
+### 👨‍💻 Hobbyist Coder
 
-Things I enjoy working on:
+While I don't work as a professional programmer, coding is my go-to hobby. I love spending my leisure time crafting tools, APIs, and automation solutions. Delving into the art of coding is my way of adding a touch of creativity to everyday challenges.
 
-- Writing APIs
-- Creating command-line programs for daily task automation
-- Building user interfaces with Vue.js and Nuxt3
+### 🌟 Interests
 
-### :mortar_board: Studying for Fun
+- Crafting tools and utilities
+- Building APIs for fun
+- Solving daily problems through code
+- Exploring the world of automation
+- Embracing the joy of coding across different languages and platforms
 
-Enthusiastic about expanding my knowledge and honing my coding skills. Explore my repositories and projects. Let's keep coding and making the world a better place together! 🚀
+### 📚 Learning Journey
 
-#### :punch: I'm just a guy who studies for fun.
+Always on the lookout for new things to learn, currently diving into the world of Rust.
+
+### 🤝 Let's Connect!
+
+Feel free to reach out if you share similar interests or just want to chat about coding, tech, or anything else. Happy coding! 🚀
