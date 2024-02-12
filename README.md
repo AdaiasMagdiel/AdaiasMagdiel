@@ -8,7 +8,7 @@
 
 ### 🧮 About Me
 
-I'm Adaías Magdiel, currently pursuing a degree in Mathematics (Licentiate) and a Bachelor's degree in Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.
+<p>I'm Adaías Magdiel, living in Itaituba, Pará, Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bandeira_Itaituba.svg/120px-Bandeira_Itaituba.svg.png" width="16px"> and currently pursuing a degree in Mathematics (Licentiate) and a Bachelor's degree in Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.</p>
 
 <table>
   <tr>
