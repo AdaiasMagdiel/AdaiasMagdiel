@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="50"/> Hi there! I'm Adaías Magdiel.</h1>
 
-[![Site](https://img.shields.io/badge/Ada%C3%ADas%20Magdiel-%239333EA?style=for-the-badge&logo=dwavesystems&logoColor=ffffff)
-](https://adaiasmagdiel.com/)
+[![Site](https://img.shields.io/badge/Ada%C3%ADas%20Magdiel-%239333EA?style=for-the-badge&logo=dwavesystems&logoColor=ffffff)](https://adaiasmagdiel.com/)
 [![Blog](https://img.shields.io/badge/Verdumes%26Leguras-d27938?style=for-the-badge&logo=readme&logoColor=white)](https://blog.adaiasmagdiel.com/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_gd__l)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/adaias.magdiel)
