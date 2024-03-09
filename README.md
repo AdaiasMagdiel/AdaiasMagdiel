@@ -22,13 +22,14 @@ I'm currently working in:
   </tr>
 </table>
 
-## 💻 Technologies & Languages
+## 💻 Languages
 
 - Python 🐍
 - JavaScript 🌐
 - PHP 🚀
 - C 🔧
 - Java ☕
+- Learning Clojure 🧩
 - Exploring Rust 🦀
 
 ## 👨‍💻 Hobbyist Coder
