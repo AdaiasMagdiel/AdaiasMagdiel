@@ -15,8 +15,8 @@
 
 I'm currently working in:
 -   [Hermes](https://github.com/AdaiasMagdiel/hermes), a lightweight (and experimental) PHP router manager.
--   [SimpleCache](https://github.com/AdaiasMagdiel/simple-cache), a library to manage cache in Python applications.
--   [Deta Clojure Library](https://github.com/AdaiasMagdiel/deta-clojure), A Clojure library designed to simplify interactions with the Deta database.
+-   [SimpleCache](https://github.com/AdaiasMagdiel/simple-cache), a simple way to manage cache in Python applications.
+-   [Deta Clojure Library](https://github.com/AdaiasMagdiel/deta-clojure), the Clojure SDK designed to simplify interactions with the Deta Space services.
 
 <table>
   <tr>
@@ -30,9 +30,9 @@ I'm currently working in:
 - Python 🐍
 - JavaScript 🌐
 - PHP 🚀
+- Clojure 🧩
 - C 🔧
 - Java ☕
-- Learning Clojure 🧩
 - Exploring Rust 🦀
 
 ## 👨‍💻 Hobbyist Coder
