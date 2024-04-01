@@ -17,6 +17,7 @@ Self projects that I'm currently working on:
 -   [Hermes](https://github.com/AdaiasMagdiel/hermes), a lightweight (and experimental) PHP router manager.
 -   [SimpleCache](https://github.com/AdaiasMagdiel/simple-cache), a simple way to manage cache in Python applications.
 -   [Deta Clojure Library](https://github.com/AdaiasMagdiel/deta-clojure), the Clojure SDK designed to simplify interactions with the Deta Space services.
+-   [Deta CMS](https://github.com/AdaiasMagdiel/deta-cms), a CMS (Content Management System) created for Deta Space using operations on the Deta Base.
 
 <table>
   <tr>
