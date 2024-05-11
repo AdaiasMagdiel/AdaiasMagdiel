@@ -32,6 +32,7 @@ Self projects that I'm currently working on:
 - JavaScript 🌐
 - PHP 🚀
 - Clojure 🧩
+- Lua 🌙
 - C 🔧
 - Java ☕
 - Exploring Rust 🦀
