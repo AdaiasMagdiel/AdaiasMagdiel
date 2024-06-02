@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adaias.magdiel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adaiasmagdiel/)
 
-## 🧮 About Me
+## About Me
 
 <p>I'm Adaías Magdiel, living in Itaituba, Pará, Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bandeira_Itaituba.svg/120px-Bandeira_Itaituba.svg.png" width="16px"> and currently pursuing a degree in Mathematics (Licentiate) and a Bachelor's degree in Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.</p>
 
@@ -27,22 +27,22 @@ Some of my projects worth knowing:
   </tr>
 </table>
 
-## 💻 Languages
+## Languages
 
-- Python 🐍
-- JavaScript 🌐
-- PHP 🚀
-- Clojure 🧩
-- Lua 🌙
-- C 🔧
-- Java ☕
-- Exploring Rust 🦀
+- 🔧 C 
+- 🐍 Python 
+- 🐘 PHP 
+- 🧮 Clojure 
+- 🌔 Lua
+- 🕹️ JavaScript
+- ☕ Java
+- 🦀 Exploring Rust
 
-## 👨‍💻 Hobbyist Coder
+## Hobbyist Coder
 
 While I don't work as a professional programmer, coding is my go-to hobby. I love spending my leisure time crafting tools, APIs, and automation solutions. Delving into the art of coding is my way of adding a touch of creativity to everyday challenges.
 
-## 🌟 Interests
+## Interests
 
 - Crafting tools and utilities
 - Building APIs for fun
@@ -50,10 +50,10 @@ While I don't work as a professional programmer, coding is my go-to hobby. I lov
 - Exploring the world of automation
 - Embracing the joy of coding across different languages and platforms
 
-## 📚 Learning Journey
+## Learning Journey
 
 Always on the lookout for new things to learn, currently diving into the world of Rust.
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
-Feel free to reach out if you share similar interests or just want to chat about coding, tech, or anything else. 🚀
+Feel free to reach out if you share similar interests or just want to chat about coding, tech, or anything else.
